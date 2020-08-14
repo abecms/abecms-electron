@@ -1,0 +1,33 @@
+{
+  "name": "abecms-app",
+  "version": "1.0.0",
+  "description": "AbeCMS App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  },
+  "dependencies": {
+    "abecms": "^5.1.0",
+    "electron-settings": "^4.0.2",
+    "fix-path": "^3.0.0",
+    "jquery": "^3.5.1",
+    "keymaster": "^1.6.2",
+    "lodash": "^4.17.19",
+    "node": "^14.8.0",
+    "request": "^2.88.2",
+    "strip": "^3.0.0"
+  }
+}
